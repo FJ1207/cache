@@ -1,4 +1,4 @@
-package sy
+package concurrent
 
 import (
 	"fmt"
